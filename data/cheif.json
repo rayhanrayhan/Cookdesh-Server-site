@@ -1,36 +1,95 @@
+
 [
     {
-    "id": "0",
-    "name": "Michael Smith "
+      "id": "1",
+      "name": "Michael Smith",
+      "picture": "https://example.com/michael-smith.jpg",
+      "description": "A deliciously sweet and savory dish that's perfect for any occasion. This recipe features fresh salmon fillets that are brushed with a maple syrup glaze and grilled to perfection. Serve with your favorite side dishes for a complete meal.",
+      "years_of_experience": 25,
+      "num_of_recipes": 100,
+      "likes": 15000,
+      "view_recipes_url": "https://example.com/michael-smith-recipes"
     },
     {
-    "id": "1",
-    "name": "Lynn Crawford"
+      "id": "2",
+      "name": "Lynn Crawford",
+      "picture": "https://example.com/lynn-crawford.jpg",
+      "description": "A deliciously sweet and savory dish that's perfect for any occasion. This recipe features fresh salmon fillets that are brushed with a maple syrup glaze and grilled to perfection. Serve with your favorite side dishes for a complete meal.",
+      "years_of_experience": 20,
+      "num_of_recipes": 80,
+      "likes": 12000,
+      "view_recipes_url": "https://example.com/lynn-crawford-recipes"
     },
     {
-    "id": "2",
-    "name": "Chuck Hughes"
+      "id": "3",
+      "name": "Chuck Hughes",
+      "picture": "https://example.com/chuck-hughes.jpg",
+      "description": "A deliciously sweet and savory dish that's perfect for any occasion. This recipe features fresh salmon fillets that are brushed with a maple syrup glaze and grilled to perfection. Serve with your favorite side dishes for a complete meal.",
+      "years_of_experience": 15,
+      "num_of_recipes": 70,
+      "likes": 10000,
+      "view_recipes_url": "https://example.com/chuck-hughes-recipes"
     },
     {
-    "id": "3",
-    "name": "Vikram Vij"
+      "id": "4",
+      "name": "Vikram Vij",
+      "picture": "https://example.com/vikram-vij.jpg",
+      "description": "A deliciously sweet and savory dish that's perfect for any occasion. This recipe features fresh salmon fillets that are brushed with a maple syrup glaze and grilled to perfection. Serve with your favorite side dishes for a complete meal.",
+      "years_of_experience": 30,
+      "num_of_recipes": 120,
+      "likes": 18000,
+      "view_recipes_url": "https://example.com/vikram-vij-recipes"
     },
     {
-    "id": "4",
-    "name": "Susur Lee"
+      "id": "5",
+      "name": "Susur Lee",
+      "picture": "https://example.com/susur-lee.jpg",
+      "description": "A deliciously sweet and savory dish that's perfect for any occasion. This recipe features fresh salmon fillets that are brushed with a maple syrup glaze and grilled to perfection. Serve with your favorite side dishes for a complete meal.",
+      "years_of_experience": 35,
+      "num_of_recipes": 150,
+      "likes": 20000,
+      "view_recipes_url": "https://example.com/susur-lee-recipes"
     },
     {
-    "id": "5",
-    "name": "BConnie DeSousa "
+      "id": "6",
+      "name": "Connie DeSousa",
+      "picture": "https://example.com/connie-desousa.jpg",
+      "description": "A deliciously sweet and savory dish that's perfect for any occasion. This recipe features fresh salmon fillets that are brushed with a maple syrup glaze and grilled to perfection. Serve with your favorite side dishes for a complete meal.",
+      "years_of_experience": 10,
+      "num_of_recipes": 50,
+      "likes": 8000,
+      "view_recipes_url": "https://example.com/connie-desousa-recipes"
     },
     {
-    "id": "6",
-    "name": "John Higgins "
+      "id": "7",
+      "name": "Connie DeSousa",
+      "picture": "https://example.com/connie-desousa.jpg",
+      "description": "A deliciously sweet and savory dish that's perfect for any occasion. This recipe features fresh salmon fillets that are brushed with a maple syrup glaze and grilled to perfection. Serve with your favorite side dishes for a complete meal.",
+      "years_of_experience": 10,
+      "num_of_recipes": 50,
+      "likes": 8000,
+      "view_recipes_url": "https://example.com/connie-desousa-recipes"
     },
     {
-    "id": "7",
-    "name": "Vikram Vij"
+      "id": "8",
+      "name": "Connie DeSousa",
+      "picture": "https://example.com/connie-desousa.jpg",
+      "description": "A deliciously sweet and savory dish that's perfect for any occasion. This recipe features fresh salmon fillets that are brushed with a maple syrup glaze and grilled to perfection. Serve with your favorite side dishes for a complete meal.",
+      "years_of_experience": 10,
+      "num_of_recipes": 50,
+      "likes": 8000,
+      "view_recipes_url": "https://example.com/connie-desousa-recipes"
+    },
+    {
+      "id": "9",
+      "name": "John Higgins",
+      "picture": "https://example.com/john-higgins.jpg",
+      "description": "A deliciously sweet and savory dish that's perfect for any occasion. This recipe features fresh salmon fillets that are brushed with a maple syrup glaze and grilled to perfection. Serve with your favorite side dishes for a complete meal.",
+      "years_of_experience": 40,
+      "num_of_recipes": 200,
+      "likes": 25000,
+      "view_recipes_url": "https://example.com/john-higgins-recipes"
     }
-    ]
+  ]
     
   
