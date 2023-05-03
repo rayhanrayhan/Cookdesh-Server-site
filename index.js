@@ -17,6 +17,14 @@ app.get('/cheif',(req,res)=>{
 })
 
 
+app.get('/chef/:id',(req,res)=>{
+    const id = req.params.id 
+    console.log(id)
+    const find = cheif.find(chef => chef.id == id)
+    res.send(find)
+})
+
+
 
 
 
