@@ -7,6 +7,7 @@
     "years_of_experience": 25,
     "num_of_recipes": 500,
     "likes": 10000,
+    "rank": "Assistent Chef",
     "chef_bio": "Michael Smith is a Canadian chef, cookbook author, and television host. He is best known for his focus on using sustainable and locally sourced ingredients, and his commitment to promoting healthy eating.",
     "recipes": [
       {
@@ -19,7 +20,8 @@
           "1/4 cup finely diced red onion"
         ],
         "cooking_method": "1. In a large bowl, whisk together the mayonnaise and lemon juice. 2. Add the lobster meat, celery, and red onion, and stir gently to combine. 3. Chill for at least 30 minutes before serving.",
-        "rating": 4.5
+        "rating": 4.5,
+        "img": "https://i.ibb.co/bWzQLhR/22.png"
       },
       {
         "name": "Quinoa and Kale Salad",
@@ -31,7 +33,8 @@
           "1/2 cup crumbled feta cheese"
         ],
         "cooking_method": "1. Rinse the quinoa in a fine mesh strainer under cold water. 2. In a medium saucepan, bring the quinoa and water to a boil. Reduce heat to low, cover, and simmer for 15-20 minutes, until the water is absorbed and the quinoa is tender. 3. In a large bowl, combine the cooked quinoa, kale, parsley, and feta cheese. 4. Toss to combine and serve.",
-        "rating": 4.2
+        "rating": 4.2,
+        "img": "https://i.ibb.co/QQc7B6V/11.png"
       },
       {
         "name": "Grilled Salmon with Citrus Salsa",
@@ -47,7 +50,8 @@
           "1 jalapeño pepper, seeded and finely chopped"
         ],
         "cooking_method": "1. Preheat grill to medium-high heat. 2. Rub salmon fillets with olive oil and season with paprika, garlic powder, and salt. 3. Grill salmon for 5-7 minutes per side, until cooked through. 4. In a medium bowl, combine the orange, grapefruit, cilantro, and jalapeño pepper. 5. Serve the grilled salmon with the citrus salsa on top.",
-        "rating": 4.8
+        "rating": 4.8,
+        "img": "https://i.ibb.co/w75PnMy/33.png"
       }
     ]
   },
@@ -59,6 +63,7 @@
     "years_of_experience": 20,
     "num_of_recipes": 80,
     "likes": 12000,
+    "rank": "Head Chef",
     "chef_bio": "Lynn Crawford is a Canadian chef, cookbook author, and television host. He is best known for his focus on using sustainable and locally sourced ingredients, and his commitment to promoting healthy eating.",
     "recipes": [
       {
@@ -71,7 +76,8 @@
           "1/4 cup finely diced red onion"
         ],
         "cooking_method": "1. In a large bowl, whisk together the mayonnaise and lemon juice. 2. Add the lobster meat, celery, and red onion, and stir gently to combine. 3. Chill for at least 30 minutes before serving.",
-        "rating": 4.5
+        "rating": 4.5,
+        "img": "https://i.ibb.co/QQc7B6V/11.png"
       },
       {
         "name": "Quinoa and Kale Salad",
@@ -83,7 +89,8 @@
           "1/2 cup crumbled feta cheese"
         ],
         "cooking_method": "1. Rinse the quinoa in a fine mesh strainer under cold water. 2. In a medium saucepan, bring the quinoa and water to a boil. Reduce heat to low, cover, and simmer for 15-20 minutes, until the water is absorbed and the quinoa is tender. 3. In a large bowl, combine the cooked quinoa, kale, parsley, and feta cheese. 4. Toss to combine and serve.",
-        "rating": 4.2
+        "rating": 4.2,
+        "img": "https://i.ibb.co/bWzQLhR/22.png"
       },
       {
         "name": "Grilled Salmon with Citrus Salsa",
@@ -99,7 +106,8 @@
           "1 jalapeño pepper, seeded and finely chopped"
         ],
         "cooking_method": "1. Preheat grill to medium-high heat. 2. Rub salmon fillets with olive oil and season with paprika, garlic powder, and salt. 3. Grill salmon for 5-7 minutes per side, until cooked through. 4. In a medium bowl, combine the orange, grapefruit, cilantro, and jalapeño pepper. 5. Serve the grilled salmon with the citrus salsa on top.",
-        "rating": 4.8
+        "rating": 4.8,
+        "img": "https://i.ibb.co/w75PnMy/33.png"
       }
     ]
   },
@@ -111,6 +119,7 @@
     "years_of_experience": 15,
     "num_of_recipes": 70,
     "likes": 10000,
+    "rank": "Assistent Chef",
     "chef_bio": "Chuck Hughes is a Canadian chef, cookbook author, and television host. He is best known for his focus on using sustainable and locally sourced ingredients, and his commitment to promoting healthy eating.",
     "recipes": [
       {
@@ -123,7 +132,8 @@
           "1/4 cup finely diced red onion"
         ],
         "cooking_method": "1. In a large bowl, whisk together the mayonnaise and lemon juice. 2. Add the lobster meat, celery, and red onion, and stir gently to combine. 3. Chill for at least 30 minutes before serving.",
-        "rating": 4.5
+        "rating": 4.5,
+        "img": "https://i.ibb.co/bQ3RFtK/44.png"
       },
       {
         "name": "Quinoa and Kale Salad",
@@ -135,7 +145,8 @@
           "1/2 cup crumbled feta cheese"
         ],
         "cooking_method": "1. Rinse the quinoa in a fine mesh strainer under cold water. 2. In a medium saucepan, bring the quinoa and water to a boil. Reduce heat to low, cover, and simmer for 15-20 minutes, until the water is absorbed and the quinoa is tender. 3. In a large bowl, combine the cooked quinoa, kale, parsley, and feta cheese. 4. Toss to combine and serve.",
-        "rating": 4.2
+        "rating": 4.2,
+        "img": "https://i.ibb.co/McnpD1t/66.png"
       },
       {
         "name": "Grilled Salmon with Citrus Salsa",
@@ -151,7 +162,8 @@
           "1 jalapeño pepper, seeded and finely chopped"
         ],
         "cooking_method": "1. Preheat grill to medium-high heat. 2. Rub salmon fillets with olive oil and season with paprika, garlic powder, and salt. 3. Grill salmon for 5-7 minutes per side, until cooked through. 4. In a medium bowl, combine the orange, grapefruit, cilantro, and jalapeño pepper. 5. Serve the grilled salmon with the citrus salsa on top.",
-        "rating": 4.8
+        "rating": 4.8,
+        "img": "https://i.ibb.co/P6VhWbk/55.png"
       }
     ]
   },
@@ -163,6 +175,7 @@
     "years_of_experience": 30,
     "num_of_recipes": 120,
     "likes": 18000,
+    "rank": "Head Chef",
     "chef_bio": "Vikram Vij is a Canadian chef, cookbook author, and television host. He is best known for his focus on using sustainable and locally sourced ingredients, and his commitment to promoting healthy eating.",
     "recipes": [
       {
@@ -175,7 +188,8 @@
           "1/4 cup finely diced red onion"
         ],
         "cooking_method": "1. In a large bowl, whisk together the mayonnaise and lemon juice. 2. Add the lobster meat, celery, and red onion, and stir gently to combine. 3. Chill for at least 30 minutes before serving.",
-        "rating": 4.5
+        "rating": 4.5,
+        "img": "https://i.ibb.co/QQc7B6V/11.png"
       },
       {
         "name": "Quinoa and Kale Salad",
@@ -187,7 +201,8 @@
           "1/2 cup crumbled feta cheese"
         ],
         "cooking_method": "1. Rinse the quinoa in a fine mesh strainer under cold water. 2. In a medium saucepan, bring the quinoa and water to a boil. Reduce heat to low, cover, and simmer for 15-20 minutes, until the water is absorbed and the quinoa is tender. 3. In a large bowl, combine the cooked quinoa, kale, parsley, and feta cheese. 4. Toss to combine and serve.",
-        "rating": 4.2
+        "rating": 4.2,
+        "img": "https://i.ibb.co/w75PnMy/33.png"
       },
       {
         "name": "Grilled Salmon with Citrus Salsa",
@@ -203,7 +218,8 @@
           "1 jalapeño pepper, seeded and finely chopped"
         ],
         "cooking_method": "1. Preheat grill to medium-high heat. 2. Rub salmon fillets with olive oil and season with paprika, garlic powder, and salt. 3. Grill salmon for 5-7 minutes per side, until cooked through. 4. In a medium bowl, combine the orange, grapefruit, cilantro, and jalapeño pepper. 5. Serve the grilled salmon with the citrus salsa on top.",
-        "rating": 4.8
+        "rating": 4.8,
+        "img": "https://i.ibb.co/bWzQLhR/22.png"
       }
     ]
   },
@@ -215,6 +231,7 @@
     "years_of_experience": 35,
     "num_of_recipes": 150,
     "likes": 20000,
+    "rank": "Assistent Chef",
     "chef_bio": "Susur Lee is a Canadian chef, cookbook author, and television host. He is best known for his focus on using sustainable and locally sourced ingredients, and his commitment to promoting healthy eating.",
     "recipes": [
       {
@@ -227,7 +244,8 @@
           "1/4 cup finely diced red onion"
         ],
         "cooking_method": "1. In a large bowl, whisk together the mayonnaise and lemon juice. 2. Add the lobster meat, celery, and red onion, and stir gently to combine. 3. Chill for at least 30 minutes before serving.",
-        "rating": 4.5
+        "rating": 4.5,
+        "img": "https://i.ibb.co/McnpD1t/66.png"
       },
       {
         "name": "Quinoa and Kale Salad",
@@ -239,7 +257,8 @@
           "1/2 cup crumbled feta cheese"
         ],
         "cooking_method": "1. Rinse the quinoa in a fine mesh strainer under cold water. 2. In a medium saucepan, bring the quinoa and water to a boil. Reduce heat to low, cover, and simmer for 15-20 minutes, until the water is absorbed and the quinoa is tender. 3. In a large bowl, combine the cooked quinoa, kale, parsley, and feta cheese. 4. Toss to combine and serve.",
-        "rating": 4.2
+        "rating": 4.2,
+        "img": "https://i.ibb.co/P6VhWbk/55.png"
       },
       {
         "name": "Grilled Salmon with Citrus Salsa",
@@ -255,7 +274,8 @@
           "1 jalapeño pepper, seeded and finely chopped"
         ],
         "cooking_method": "1. Preheat grill to medium-high heat. 2. Rub salmon fillets with olive oil and season with paprika, garlic powder, and salt. 3. Grill salmon for 5-7 minutes per side, until cooked through. 4. In a medium bowl, combine the orange, grapefruit, cilantro, and jalapeño pepper. 5. Serve the grilled salmon with the citrus salsa on top.",
-        "rating": 4.8
+        "rating": 4.8,
+        "img": "https://i.ibb.co/bQ3RFtK/44.png"
       }
     ]
   },
@@ -267,6 +287,7 @@
     "years_of_experience": 10,
     "num_of_recipes": 50,
     "likes": 8000,
+    "rank": "Head Chef",
     "chef_bio": "Connie DeSousa is a Canadian chef, cookbook author, and television host. He is best known for his focus on using sustainable and locally sourced ingredients, and his commitment to promoting healthy eating.",
     "recipes": [
       {
@@ -279,7 +300,8 @@
           "1/4 cup finely diced red onion"
         ],
         "cooking_method": "1. In a large bowl, whisk together the mayonnaise and lemon juice. 2. Add the lobster meat, celery, and red onion, and stir gently to combine. 3. Chill for at least 30 minutes before serving.",
-        "rating": 4.5
+        "rating": 4.5,
+        "img": "https://i.ibb.co/bWzQLhR/22.png"
       },
       {
         "name": "Quinoa and Kale Salad",
@@ -291,7 +313,8 @@
           "1/2 cup crumbled feta cheese"
         ],
         "cooking_method": "1. Rinse the quinoa in a fine mesh strainer under cold water. 2. In a medium saucepan, bring the quinoa and water to a boil. Reduce heat to low, cover, and simmer for 15-20 minutes, until the water is absorbed and the quinoa is tender. 3. In a large bowl, combine the cooked quinoa, kale, parsley, and feta cheese. 4. Toss to combine and serve.",
-        "rating": 4.2
+        "rating": 4.2,
+        "img": "https://i.ibb.co/w75PnMy/33.png"
       },
       {
         "name": "Grilled Salmon with Citrus Salsa",
@@ -307,7 +330,8 @@
           "1 jalapeño pepper, seeded and finely chopped"
         ],
         "cooking_method": "1. Preheat grill to medium-high heat. 2. Rub salmon fillets with olive oil and season with paprika, garlic powder, and salt. 3. Grill salmon for 5-7 minutes per side, until cooked through. 4. In a medium bowl, combine the orange, grapefruit, cilantro, and jalapeño pepper. 5. Serve the grilled salmon with the citrus salsa on top.",
-        "rating": 4.8
+        "rating": 4.8,
+        "img": "https://i.ibb.co/QQc7B6V/11.png"
       }
     ]
   }
