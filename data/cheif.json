@@ -125,10 +125,10 @@
       {
         "name": "Nova Scotia Lobster Salad",
         "ingredients": [
-          "1 lb cooked lobster meat",
-          "1/2 cup mayonnaise",
-          "2 tbsp fresh lemon juice",
-          "1/2 cup finely diced celery",
+          "1 lb cooked lobster meat,",
+          "1/2 cup mayonnaise,",
+          "2 tbsp fresh lemon juice,",
+          "1/2 cup finely diced celery,",
           "1/4 cup finely diced red onion"
         ],
         "cooking_method": "1. In a large bowl, whisk together the mayonnaise and lemon juice. 2. Add the lobster meat, celery, and red onion, and stir gently to combine. 3. Chill for at least 30 minutes before serving.",
@@ -181,24 +181,24 @@
       {
         "name": "Nova Scotia Lobster Salad",
         "ingredients": [
-          "1 lb cooked lobster meat",
-          "1/2 cup mayonnaise",
-          "2 tbsp fresh lemon juice",
-          "1/2 cup finely diced celery",
+          "1 lb cooked lobster meat, ",
+          "1/2 cup mayonnaise, ",
+          "2 tbsp fresh lemon juice, ",
+          "1/2 cup finely diced celery, ",
           "1/4 cup finely diced red onion"
         ],
         "cooking_method": "1. In a large bowl, whisk together the mayonnaise and lemon juice. 2. Add the lobster meat, celery, and red onion, and stir gently to combine. 3. Chill for at least 30 minutes before serving.",
         "rating": 4.5,
-        "img": "https://i.ibb.co/QQc7B6V/11.png"
+        "img": "node"
       },
       {
         "name": "Quinoa and Kale Salad",
         "ingredients": [
-          "1 cup quinoa",
-          "2 cups water",
-          "4 cups chopped kale",
-          "1/2 cup chopped fresh parsley",
-          "1/2 cup crumbled feta cheese"
+          "1 cup quinoa,",
+          "2 cups water,",
+          "4 cups chopped kale,",
+          "1/2 cup chopped fresh parsley,",
+          "1/2 cup crumbled feta cheese,"
         ],
         "cooking_method": "1. Rinse the quinoa in a fine mesh strainer under cold water. 2. In a medium saucepan, bring the quinoa and water to a boil. Reduce heat to low, cover, and simmer for 15-20 minutes, until the water is absorbed and the quinoa is tender. 3. In a large bowl, combine the cooked quinoa, kale, parsley, and feta cheese. 4. Toss to combine and serve.",
         "rating": 4.2,
@@ -207,14 +207,14 @@
       {
         "name": "Grilled Salmon with Citrus Salsa",
         "ingredients": [
-          "4 salmon fillets",
-          "1 tbsp olive oil",
-          "1 tsp paprika",
-          "1/2 tsp garlic powder",
-          "1/2 tsp salt",
-          "1 orange, peeled and diced",
-          "1 grapefruit, peeled and diced",
-          "1/4 cup chopped fresh cilantro",
+          "4 salmon fillets,",
+          "1 tbsp olive oil,",
+          "1 tsp paprika,",
+          "1/2 tsp garlic powder,",
+          "1/2 tsp salt,",
+          "1 orange, peeled and diced,",
+          "1 grapefruit, peeled and diced,",
+          "1/4 cup chopped fresh cilantro,",
           "1 jalapeño pepper, seeded and finely chopped"
         ],
         "cooking_method": "1. Preheat grill to medium-high heat. 2. Rub salmon fillets with olive oil and season with paprika, garlic powder, and salt. 3. Grill salmon for 5-7 minutes per side, until cooked through. 4. In a medium bowl, combine the orange, grapefruit, cilantro, and jalapeño pepper. 5. Serve the grilled salmon with the citrus salsa on top.",
@@ -293,10 +293,10 @@
       {
         "name": "Nova Scotia Lobster Salad",
         "ingredients": [
-          "1 lb cooked lobster meat",
-          "1/2 cup mayonnaise",
-          "2 tbsp fresh lemon juice",
-          "1/2 cup finely diced celery",
+          "1 lb cooked lobster meat,",
+          "1/2 cup mayonnaise,",
+          "2 tbsp fresh lemon juice,",
+          "1/2 cup finely diced celery,",
           "1/4 cup finely diced red onion"
         ],
         "cooking_method": "1. In a large bowl, whisk together the mayonnaise and lemon juice. 2. Add the lobster meat, celery, and red onion, and stir gently to combine. 3. Chill for at least 30 minutes before serving.",
@@ -306,10 +306,10 @@
       {
         "name": "Quinoa and Kale Salad",
         "ingredients": [
-          "1 cup quinoa",
-          "2 cups water",
-          "4 cups chopped kale",
-          "1/2 cup chopped fresh parsley",
+          "1 cup quinoa,",
+          "2 cups water,",
+          "4 cups chopped kale,",
+          "1/2 cup chopped fresh parsley,",
           "1/2 cup crumbled feta cheese"
         ],
         "cooking_method": "1. Rinse the quinoa in a fine mesh strainer under cold water. 2. In a medium saucepan, bring the quinoa and water to a boil. Reduce heat to low, cover, and simmer for 15-20 minutes, until the water is absorbed and the quinoa is tender. 3. In a large bowl, combine the cooked quinoa, kale, parsley, and feta cheese. 4. Toss to combine and serve.",
@@ -319,14 +319,14 @@
       {
         "name": "Grilled Salmon with Citrus Salsa",
         "ingredients": [
-          "4 salmon fillets",
-          "1 tbsp olive oil",
-          "1 tsp paprika",
-          "1/2 tsp garlic powder",
-          "1/2 tsp salt",
-          "1 orange, peeled and diced",
-          "1 grapefruit, peeled and diced",
-          "1/4 cup chopped fresh cilantro",
+          "4 salmon fillets,",
+          "1 tbsp olive oil,",
+          "1 tsp paprika,",
+          "1/2 tsp garlic powder,",
+          "1/2 tsp salt,",
+          "1 orange, peeled and diced,",
+          "1 grapefruit, peeled and diced,",
+          "1/4 cup chopped fresh cilantro,",
           "1 jalapeño pepper, seeded and finely chopped"
         ],
         "cooking_method": "1. Preheat grill to medium-high heat. 2. Rub salmon fillets with olive oil and season with paprika, garlic powder, and salt. 3. Grill salmon for 5-7 minutes per side, until cooked through. 4. In a medium bowl, combine the orange, grapefruit, cilantro, and jalapeño pepper. 5. Serve the grilled salmon with the citrus salsa on top.",
